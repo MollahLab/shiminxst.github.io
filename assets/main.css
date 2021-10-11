@@ -27,7 +27,7 @@ body {
 }
 
 .header {
-	background-color: blue;
+	background-color: #003c96a6;
 	margin-left: auto;
 	margin-right: auto;
 	padding:0.5% 2% 0.5% 2%;
@@ -83,7 +83,7 @@ li.pub {
 	font-size:100%;
 	font-weight:regular;
 	height:35px;
-	background-color:blue;
+	background-color:#003c96a6;
 	line-height:35px; 
 	padding:0% 1% 0% 1%;
 	display:inline; 
